@@ -2,7 +2,7 @@ Name:       ambience-bulb
 
 Summary:    Bulb Ambience
 Version:    0.0.1
-Release:    1
+Release:    2
 Group:      System/GUI/Other
 License:    TBD
 Source0:    %{name}-%{version}.tar.bz2
@@ -56,4 +56,4 @@ systemctl-user restart ambienced.service
 
 %changelog
 * Mon Nov 23 2014 Nokius
-- first release
+- - Updated Translation
