@@ -1,0 +1,11 @@
+{
+    "translationCatalog" : "ambience-bulb",
+    "files" : [
+        { "displayName" : "bulb-ringtone"          , "fileName" : "bulb_Ringtone.wav" },
+        { "displayName" : "bulb-messagetone"       , "fileName" : "bulb_Message.wav" },
+        { "displayName" : "bulb-imtone"            , "fileName" : "bulb_IM.wav" },
+        { "displayName" : "bulb-emailtone"         , "fileName" : "bulb_Email.wav" },
+        { "displayName" : "bulb-calendar-alarm"    , "fileName" : "bulb_Calendar.wav" },
+        { "displayName" : "bulb-clock-alarm"       , "fileName" : "bulb_Clock.wav" }
+    ]
+}

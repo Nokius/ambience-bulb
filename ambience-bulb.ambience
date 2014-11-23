@@ -1,0 +1,18 @@
+{
+    "translationCatalog"        : "ambience-bulb",
+    "displayName"               : "Bulb",
+    "ringerToneFile"            : { "file": "bulb_Ringtone.wav", "enabled": 1 },
+    "messageToneFile"           : { "file": "bulb_Message.wav",  "enabled": 1 },
+    "mailToneFile"              : { "file": "bulb_Email.wav",    "enabled": 1 },
+    "internetCallToneFile"      : { "file": "bulb_IM.wav",       "enabled": 1 },
+    "chatToneFile"              : { "file": "bulb_IM.wav",     "enabled": 1 },
+    "calendarToneFile"          : { "file": "bulb_Calendar.wav", "enabled": 1 },
+    "clockAlarmToneFile"        : { "file": "bulb_Clock.wav",    "enabled": 1 },
+    "wallpaper"                 : "ambience-bulb.jpg",
+    "highlightColor"            : "#EB8600",
+    "secondaryHighlightColor"   : "#ED9219",
+    "primaryColor"              : "#FFFFFF",
+    "secondaryColor"            : "#FFFFFF99",
+    "ringerVolume"              : 60,
+    "favorite"			: true
+}
