@@ -14,7 +14,7 @@ Item {
         QT_TRID_NOOP("bulb-messagetone")
         //% "Calendar alarm"
         QT_TRID_NOOP("bulb-calendar-alarm")
-        //% "Clock Alarm A House without Windows"
+        //% "Clock Alarm by A House without Windows"
         QT_TRID_NOOP("bulb-clock-alarm")
     }
 }
